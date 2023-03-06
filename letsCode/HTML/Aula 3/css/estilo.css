@@ -1,0 +1,79 @@
+body {
+	font-size: 1.2em;
+}
+
+#container {
+	width: 98%;
+	min-width: 300px;
+	border: 1px solid black;
+	padding: 10px;
+	display: inline-block;
+	background: linear-gradient(0turn, lightcyan, white);
+	text-align: center;
+}
+
+#imagem {
+	display: inline-block;
+	text-align: center;
+	padding: 1.2em;
+}
+
+#conteudo {
+	display: inline-block;
+}
+
+#musica {
+	display: inline;
+	text-align: center;
+	padding: 10% 0;
+	display: inline-block;
+}
+
+#musica img {
+	border-radius: 0;
+	width: 50%;
+	display: inline-block;
+}
+
+#musica p {
+}
+
+#titulo {
+	background: linear-gradient(0.5turn, white, lightblue);
+	padding: 10px;
+	border: 2px solid black;
+}
+
+ul {
+	text-decoration: none;
+	text-align: justify;
+}
+
+img {
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 50%;	
+	display: inline-block;
+
+}
+
+audio {
+	text-align: center;
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+	display: ;
+}
+
+footer {
+	display: block;
+	text-align: center;
+}
+
+span {
+	font-style: italic;
+	font-size: 0.8em;
+	font-weight: bold;
+}
